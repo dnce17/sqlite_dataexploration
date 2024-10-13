@@ -1,7 +1,7 @@
-# Assignment: Healthcare Data Exploration with SQLite and Pandas
+# Healthcare Data Exploration with SQLite and Pandas
 ## Purpose: Learn how to explore data in files (like .csv) using SQLite and Pandas
 
-NOTE: The main assignment file is stroke_predict.py. I did some extra practice using another csv file, so I just linked that too below.
+NOTE: The main file is stroke_predict.py. I did some extra practice using another csv file, so I just linked that too below.
 
 ## Links to Original Dataset
 * Dataset used in main assignment file
